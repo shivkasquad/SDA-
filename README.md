@@ -59,7 +59,7 @@ Includes transactional sales data such as:
 
 ## 📸 Dashboard Screenshot
 
-![Sales Data Analysis Dashboard](SDA%20ss.png)
+![Sales Data Analysis Dashboard]([SDA%20ss.png](https://github.com/shivkasquad/SDA-/blob/main/SDA%20ss.png))
 
 ---
 
